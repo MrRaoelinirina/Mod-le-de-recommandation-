@@ -18,7 +18,7 @@ Mr. R
 
 1. Assurez-vous d'avoir installé les bibliothèques requises en exécutant `pip install pandas scikit-learn`.
 2. Placez le fichier CSV contenant les données de recommandation dans le même répertoire que le script, ou spécifiez le chemin d'accès correct dans le script.
-3. Exécutez le script Python à l'aide de la commande `python script_recommandation.py`.
+3. Exécutez le script Python à l'aide de la commande `python modelDRec.py`.
 
 ## Remarque
 
