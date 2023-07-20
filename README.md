@@ -18,10 +18,10 @@ Mr. R
 
 1. Assurez-vous d'avoir installé les bibliothèques requises en exécutant `pip install pandas scikit-learn`.
 2. Placez le fichier CSV contenant les données de recommandation dans le même répertoire que le script, ou spécifiez le chemin d'accès correct dans le script.
-3. Exécutez le script Python à l'aide de la commande `python modelDRec.py`.
+3. Exécutez le script Python à l'aide de la commande `python ModelDeRec.py`.
 
 ## Remarque
 
 Assurez-vous d'adapter le fichier CSV contenant les données de recommandation en fonction de votre propre jeu de données et des caractéristiques spécifiques de votre plateforme de commerce électronique.
 
-Bonnes expérimentations avec votre modèle de recommandation personnalisé !
+Bonnes expérimentations avec notre modèle de recommandation !
